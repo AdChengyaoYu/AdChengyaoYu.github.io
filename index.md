@@ -7,9 +7,9 @@ title: Chengyao Yu
   <img src="profile.jpg" alt="Chengyao Yu" width="160" style="border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.15);" />
   <div>
     <h1 style="margin-bottom: 0;">Chengyao Yu</h1>
-    <p style="margin-top: 0;"><strong>Master Student in Statistics</strong><br/>
+    <p style="margin-top: 0;"><strong>Incoming Master Student in Statistics</strong><br/>
     Department of Statistics and Data Science,<br/>
-    Southern University of Science and Technology<br/>
+    Southern University of Science and Technology (Fall 2025)<br/>
     Mentored by Prof. Bing-yi Jing</p>
     <p>
       📧 <a href="mailto:ycy87686@163.com">ycy87686@163.com</a><br/>
@@ -22,7 +22,10 @@ title: Chengyao Yu
 
 ## About Me
 
-Hi! I’m Chengyao Yu. I am currently a master student from the Department of Statistics and Data Science at Southern University of Science and Technology, where I have the fortune to be mentored by Professor Bing-yi Jing. I hope to discuss statistical research topics with everyone.
+## About Me
+
+Hi! I’m Chengyao Yu. I will be joining the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech) as a master's student in Fall 2025. I’m excited to work on theoretical and applied statistical problems and hope to engage with the broader research community. I look forward to collaborating and learning from others in the field.
+
 
 ---
 
@@ -30,8 +33,8 @@ Hi! I’m Chengyao Yu. I am currently a master student from the Department of St
 
 I work on statistical problems related to two main themes:
 
-- Multiple hypothesis testing in various contexts  
-- Uncertainty quantification and interpretability in machine learning
+- Multiple hypothesis testing in various contexts.  
+- Uncertainty quantification and interpretability in machine learning.
 
 ---
 
