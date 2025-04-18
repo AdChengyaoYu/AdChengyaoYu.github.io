@@ -23,8 +23,7 @@ title: Chengyao Yu
 
 ## About Me
 
-Hi! I’m Chengyao Yu. I will be joining the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech) as a master's student in Fall 2025. I’m excited to work on theoretical and applied statistical problems and hope to engage with the broader research community.
-
+Hi! I’m Chengyao Yu. I am fortunate to have received guidance from Professor Ruixing Ming during my undergraduate studies. I will be joining the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech) as a master's student in Fall 2025, where I have the fortune to be mentored by Professor Bingyi Jing. I’m excited to work on theoretical and applied statistical problems and hope to engage with the broader research community.
 
 ---
 
@@ -43,7 +42,11 @@ I work on statistical problems related to two main themes:
 2. Random weighting approximation of M-estimators with increasing dimensions of parameter. Ruixing Ming, Chengyao Yu (Co-first author), Min Xiao, Zhanfeng Wang, 2025. (Submitted to the Statistica Sinica)
 
 ---
+## Education
+- (Incoming) Mathematics, Southern University of Science and Technology.
+- B.S. Applied statistics, Zhejiang Gongshang University, 2021 - 2025.
 
+---
 ## Contact
 
 I am open to collaboration and discussion in fields involving multiple hypotheses testing, large language model, and uncertainty quantification.  
