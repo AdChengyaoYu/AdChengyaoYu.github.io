@@ -46,6 +46,6 @@ I work on statistical problems related to two main themes:
 
 ## Contact
 
-I am open to collaboration and discussion in fields involving statistics, data science, and methodology development.  
+I am open to collaboration and discussion in fields involving multiple hypotheses testing, large language model, and uncertainty quantification.  
 Feel free to reach out via email: [ycy87686@163.com](mailto:ycy87686@163.com)
 
