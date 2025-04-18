@@ -10,7 +10,6 @@ title: Chengyao Yu
     <p style="margin-top: 0;"><strong>Incoming Master Student in Statistics</strong><br/>
     Department of Statistics and Data Science,<br/>
     Southern University of Science and Technology (Fall 2025).<br/>
-    Mentored by Prof. Bing-yi Jing.</p>
     <p>
       📧 <a href="mailto:ycy87686@163.com">ycy87686@163.com</a><br/>
       🔗 <a href="https://github.com/AdChengyaoYu" target="_blank">GitHub: AdChengyaoYu</a>
