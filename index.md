@@ -2,7 +2,7 @@
 layout: default
 title: Chengyao Yu
 ---
-
+<img src="profile.jpg" alt="Chengyao Yu" width="160" style="border-radius: 8px; margin-bottom: 20px;" />
 # Chengyao Yu
 
 **Master Student in Statistics**  
@@ -31,8 +31,8 @@ I work on statistical problems related to two main themes:
 
 ## Publications
 
-1. **A generalized e-value feature detection method with FDR control at multiple resolutions.**  
-2. **Random weighting approximation of M-estimators with increasing dimensions of parameter.**
+1. **A generalized e-value feature detection method with FDR control at multiple resolutions. Chengyao Yu, Ruixing Ming, Min Xiao, Zhanfeng Wang, Bingyi Jing, 2024. (Submitted to the Annals of Statistics)**  
+2. **Random weighting approximation of M-estimators with increasing dimensions of parameter. Ruixing Ming, Chengyao Yu (Co-first author), Min Xiao, Zhanfeng Wang, 2025. (Submitted to the Statistica Sinica)**
 
 ---
 
