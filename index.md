@@ -2,15 +2,21 @@
 layout: default
 title: Chengyao Yu
 ---
-<img src="profile.jpg" alt="Chengyao Yu" width="160" style="border-radius: 8px; margin-bottom: 20px;" />
-# Chengyao Yu
 
-**Master Student in Statistics**  
-Department of Statistics and Data Science, Southern University of Science and Technology.
-Mentored by Prof. Bing-yi Jing
-
-📧 ycy87686@163.com  
-🔗 [GitHub: AdChengyaoYu](https://github.com/AdChengyaoYu)
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap; margin-bottom: 30px;">
+  <img src="profile.jpg" alt="Chengyao Yu" width="160" style="border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.15);" />
+  <div>
+    <h1 style="margin-bottom: 0;">Chengyao Yu</h1>
+    <p style="margin-top: 0;"><strong>Master Student in Statistics</strong><br/>
+    Department of Statistics and Data Science,<br/>
+    Southern University of Science and Technology<br/>
+    Mentored by Prof. Bing-yi Jing</p>
+    <p>
+      📧 <a href="mailto:ycy87686@163.com">ycy87686@163.com</a><br/>
+      🔗 <a href="https://github.com/AdChengyaoYu" target="_blank">GitHub: AdChengyaoYu</a>
+    </p>
+  </div>
+</div>
 
 ---
 
@@ -24,8 +30,8 @@ Hi! I’m Chengyao Yu. I am currently a master student from the Department of St
 
 I work on statistical problems related to two main themes:
 
-- Multiple hypothesis testing in various contexts.
-- Uncertainty quantification and interpretability in machine learning.
+- Multiple hypothesis testing in various contexts  
+- Uncertainty quantification and interpretability in machine learning
 
 ---
 
@@ -40,3 +46,4 @@ I work on statistical problems related to two main themes:
 
 I am open to collaboration and discussion in fields involving statistics, data science, and methodology development.  
 Feel free to reach out via email: [ycy87686@163.com](mailto:ycy87686@163.com)
+
