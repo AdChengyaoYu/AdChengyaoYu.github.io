@@ -8,13 +8,15 @@ title: Chengyao Yu
   <div>
     <h1 style="margin-bottom: 0;">Chengyao Yu</h1>
     <p style="margin-top: 0;"><strong>Incoming Master Student in Statistics</strong><br/>
-    Department of Statistics and Data Science, Southern University of Science and Technology (Fall 2025).<br/>
+    Department of Statistics and Data Science, Southern University of Science and Technology (Fall 2025).</p>
     <p>
       📧 <a href="mailto:ycy87686@163.com">ycy87686@163.com</a><br/>
       🔗 <a href="https://github.com/AdChengyaoYu" target="_blank">GitHub: AdChengyaoYu</a>
     </p>
   </div>
 </div>
+
+
 
 ---
 
@@ -41,8 +43,13 @@ I work on statistical problems related to two main themes:
 
 ---
 ## Education
-- (Incoming) Mathematics, Southern University of Science and Technology.
-- B.S. Applied statistics, Zhejiang Gongshang University, 2021 - 2025.
+
+- **M.S. in Statistics** *(Incoming, Fall 2025)*  
+  Southern University of Science and Technology
+
+- **B.S. in Applied Statistics** *(2021 – 2025)*  
+  Zhejiang Gongshang University
+
 
 ---
 ## Contact
