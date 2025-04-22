@@ -21,7 +21,7 @@ title: Chengyao Yu
 
 ## About Me
 
-Hi! I’m Chengyao Yu. I am fortunate to have received guidance from Professor Ruixing Ming during my undergraduate studies. I will be joining the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech) as a master's student in Fall 2025, where I will be mentored by Professor Bingyi Jing. I’m excited to work on both theoretical and applied statistical problems, and I hope to engage actively with the broader research community.
+Hi! I’m Chengyao Yu. I am fortunate to have received guidance from Professor Ruixing Ming during my undergraduate studies. I will join the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech) as a master's student in Fall 2025, where I will be mentored by Professor Bingyi Jing. I’m excited to work on both theoretical and applied statistical problems, and I hope to engage actively with the broader research community.
 
 ---
 
