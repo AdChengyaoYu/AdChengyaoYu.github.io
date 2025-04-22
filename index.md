@@ -44,7 +44,7 @@ I work on statistical problems related to two main themes:
 ---
 ## Education
 
-- **M.S. in Statistics** *(Incoming, Fall 2025)*  
+- **M.S. in Mathematics** *(Incoming, Fall 2025)*  
   Southern University of Science and Technology
 
 - **B.S. in Applied Statistics** *(2021 – 2025)*  
