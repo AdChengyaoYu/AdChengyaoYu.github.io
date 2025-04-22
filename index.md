@@ -8,7 +8,8 @@ title: Chengyao Yu
   <div>
     <h1 style="margin-bottom: 0;">Chengyao Yu</h1>
     <p style="margin-top: 0;"><strong>Incoming Master Student in Statistics</strong><br/>
-    Department of Statistics and Data Science, Southern University of Science and Technology (Fall 2025).</p>
+    Department of Statistics and Data Science,<br/>
+    Southern University of Science and Technology (Fall 2025)</p>
     <p>
       📧 <a href="mailto:ycy87686@163.com">ycy87686@163.com</a><br/>
       🔗 <a href="https://github.com/AdChengyaoYu" target="_blank">GitHub: AdChengyaoYu</a>
@@ -16,14 +17,11 @@ title: Chengyao Yu
   </div>
 </div>
 
-
-
 ---
-
 
 ## About Me
 
-Hi! I’m Chengyao Yu. I am fortunate to have received guidance from Professor Ruixing Ming during my undergraduate studies. I will be joining the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech) as a master's student in Fall 2025, where I have the fortune to be mentored by Professor Bingyi Jing. I’m excited to work on theoretical and applied statistical problems and hope to engage with the broader research community.
+Hi! I’m Chengyao Yu. I am fortunate to have received guidance from Professor Ruixing Ming during my undergraduate studies. I will be joining the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech) as a master's student in Fall 2025, where I will be mentored by Professor Bingyi Jing. I’m excited to work on both theoretical and applied statistical problems, and I hope to engage actively with the broader research community.
 
 ---
 
@@ -31,28 +29,35 @@ Hi! I’m Chengyao Yu. I am fortunate to have received guidance from Professor R
 
 I work on statistical problems related to two main themes:
 
-- Multiple hypothesis testing in various contexts.  
-- Uncertainty quantification and interpretability in machine learning.
+- Multiple hypothesis testing in various contexts  
+- Uncertainty quantification and interpretability in machine learning
 
 ---
 
 ## Publications
 
-1. A generalized e-value feature detection method with FDR control at multiple resolutions. Chengyao Yu, Ruixing Ming, Min Xiao, Zhanfeng Wang, Bingyi Jing, 2024. (Submitted to the Annals of Statistics)  
-2. Random weighting approximation of M-estimators with increasing dimensions of parameter. Ruixing Ming, Chengyao Yu (Co-first author), Min Xiao, Zhanfeng Wang, 2025. (Submitted to the Statistica Sinica)
+1. **A generalized e-value feature detection method with FDR control at multiple resolutions**  
+   *Chengyao Yu, Ruixing Ming, Min Xiao, Zhanfeng Wang, Bingyi Jing*, 2024  
+   *(Submitted to the Annals of Statistics)*
+
+2. **Random weighting approximation of M-estimators with increasing dimensions of parameter**  
+   *Ruixing Ming, Chengyao Yu (Co-first author), Min Xiao, Zhanfeng Wang*, 2025  
+   *(Submitted to Statistica Sinica)*
 
 ---
+
 ## Education
 
-- **M.S. in Mathematics** *(Incoming, Fall 2025)*  
+- **M.S. in Statistics** *(Incoming, Fall 2025)*  
   Southern University of Science and Technology
 
 - **B.S. in Applied Statistics** *(2021 – 2025)*  
   Zhejiang Gongshang University
 
-
 ---
+
 ## Contact
 
-I am open to collaboration and discussion in fields involving multiple hypotheses testing, large language model, and uncertainty quantification. Feel free to contact me if you also have enthusiasm for these issues.
+I am open to collaboration and discussion in fields involving multiple hypothesis testing, large language models, and uncertainty quantification.  
+Feel free to contact me if you are enthusiastic about these topics as well!
 
