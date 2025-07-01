@@ -38,12 +38,12 @@ I work on statistical problems related to two main themes:
 
 1. **Random weighting approximation of M-estimators with increasing dimensions of parameter**  
    *Ruixing Ming, Chengyao Yu (Co-first author), Min Xiao, Zhanfeng Wang*
-   *(2025, Submitted to Statistica Sinica)*
+   *(2025, Submitted to Statistica Sinica, in revision)*
 
 3. **A generalized e-value feature detection method with FDR control at multiple resolutions**  
    *Chengyao Yu, Ruixing Ming, Min Xiao, Zhanfeng Wang, Bingyi Jing*
-   *(2024, Submitted to the Annals of Statistics)*
-
+   *(2024, Submitted to the Annals of Statistics, under review)*
+,
 ---
 
 ## Education
