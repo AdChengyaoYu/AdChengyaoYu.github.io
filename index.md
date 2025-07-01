@@ -36,7 +36,11 @@ I work on statistical problems related to two main themes:
 
 ## Publications
 
-1. **Random weighting approximation of M-estimators with increasing dimensions of parameter**  
+1. **FDR-based Automatic Identification and Removal (FAIR)-Pruner: An Efficient Neural Network Pruning Framework**  
+   *Chenqing Lin, Mostafa Hussien, Chengyao Yu, Osama Abdelrahman, Ruixing Ming*
+   *(2025, Manuscript)*
+
+2. **Random weighting approximation of M-estimators with increasing dimensions of parameter**  
    *Ruixing Ming, Chengyao Yu (Co-first author), Min Xiao, Zhanfeng Wang*
    *(2025, Submitted to Statistica Sinica, in revision)*
 
