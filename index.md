@@ -47,7 +47,7 @@ I work on statistical problems related to two main themes:
 3. **A generalized e-value feature detection method with FDR control at multiple resolutions**  
    *Chengyao Yu, Ruixing Ming, Min Xiao, Zhanfeng Wang, Bingyi Jing*
    *(2024, Submitted to the Annals of Statistics, under review)*
-,
+
 ---
 
 ## Education
