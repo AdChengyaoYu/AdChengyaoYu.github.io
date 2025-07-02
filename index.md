@@ -7,7 +7,7 @@ title: Chengyao Yu
   <img src="profile.jpg" alt="Chengyao Yu" width="160" style="border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.15);" />
   <div>
     <h1 style="margin-bottom: 0;">Chengyao Yu</h1>
-    <p style="margin-top: 0;"><strong> Master Student (25 Fall) in Statistics</strong><br/>
+    <p style="margin-top: 0;"><strong> Master Student in Statistics</strong><br/>
     Department of Statistics and Data Science,<br/>
     Southern University of Science and Technology (Fall 2025)</p>
     <p>
