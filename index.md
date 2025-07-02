@@ -32,7 +32,7 @@ I work on statistical problems related to two main themes:
 - Multiple hypotheses testing in various contexts  
 - Uncertainty quantification and interpretability in machine learning
 
-Recently, I focus on leveraging conformal inference to assist in reliable deployment of large models. 
+Recently, I focus on leveraging conformal inference to assist in reliable deployment of large language models. 
 
 ---
 
