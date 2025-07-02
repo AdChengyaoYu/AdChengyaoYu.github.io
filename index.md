@@ -7,7 +7,7 @@ title: Chengyao Yu
   <img src="profile.jpg" alt="Chengyao Yu" width="160" style="border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.15);" />
   <div>
     <h1 style="margin-bottom: 0;">Chengyao Yu</h1>
-    <p style="margin-top: 0;"><strong>Incoming Master Student in Statistics</strong><br/>
+    <p style="margin-top: 0;"><strong> Master Student (25 Fall) in Statistics</strong><br/>
     Department of Statistics and Data Science,<br/>
     Southern University of Science and Technology (Fall 2025)</p>
     <p>
@@ -29,9 +29,10 @@ Hi! I’m Chengyao Yu. I am fortunate to have received guidance from Professor R
 
 I work on statistical problems related to two main themes:
 
-- Multiple hypothesis testing in various contexts  
+- Multiple hypotheses testing in various contexts  
 - Uncertainty quantification and interpretability in machine learning
 
+Recently, I focus on leveraging conformal inference to assist in reliable deployment of large models. 
 ---
 
 ## Publications
@@ -52,16 +53,15 @@ I work on statistical problems related to two main themes:
 
 ## Education
 
-- **M.S. in Mathematics** *(Incoming, Fall 2025)*  
+- **M.S. in Mathematics** *(2025.9 – Present)*  
   Southern University of Science and Technology
 
-- **B.S. in Applied Statistics** *(2021 – 2025)*  
+- **B.S. in Applied Statistics** *(2021.9 – 2025.6)*  
   Zhejiang Gongshang University
 
 ---
 
 ## Contact
 
-I am open to collaboration and discussion in fields involving multiple hypothesis testing, large language models, and uncertainty quantification.  
+I am open to collaboration and discussion in fields involving multiple hypotheses testing, large language models, and uncertainty quantification (conformal inference).  
 Feel free to contact me if you are enthusiastic about these topics as well!
-
