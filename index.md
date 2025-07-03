@@ -40,7 +40,7 @@ Recently, I focus on leveraging conformal inference to assist in reliable deploy
 
 1. **FDR-based Automatic Identification and Removal (FAIR)-Pruner: An Efficient Neural Network Pruning Framework**  
    *Chenqing Lin, Mostafa Hussien, Chengyao Yu, Osama Abdelrahman, Ruixing Ming*
-   *(2025, Manuscript)*
+   *(2025, Submitted to AAAI Conference on Artificial Intelligence)*
 
 2. **Random weighting approximation of M-estimators with increasing dimensions of parameter**  
    *Ruixing Ming, Chengyao Yu (Co-first author), Min Xiao, Zhanfeng Wang*
