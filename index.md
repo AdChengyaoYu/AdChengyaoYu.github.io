@@ -11,7 +11,7 @@ title: Chengyao Yu
     Department of Statistics and Data Science,<br/>
     Southern University of Science and Technology (Fall 2025)</p>
     <p>
-      📧 <a href="mailto:ycy87686@163.com">ycy87686@163.com</a><br/>
+      📧 <a href="mailto:ycy87686@163.com">12532239@mail.sustech.edu.cn</a><br/>
       🔗 <a href="https://github.com/AdChengyaoYu" target="_blank">GitHub: AdChengyaoYu</a>
     </p>
   </div>
