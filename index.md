@@ -56,6 +56,16 @@ Recently, I focus on leveraging conformal inference to assist in reliable deploy
 
 ---
 
+## Working papers
+
+1. **Robust Conformal Selection with application to large scale classification**  
+   ***Chengyao Yu**, Bingyi Jing*
+
+2. **Conformalized conditional probability estimation with multiclass classification**  
+   *Xihao Wang, **Chengyao Yu (Co-first author)**, Ruixing Ming*
+   
+---
+
 ## Education
 
 - **M.S. in Mathematics** *(2025.9 – Present)*  
