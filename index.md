@@ -21,7 +21,7 @@ title: Chengyao Yu
 
 ## About Me
 
-Hi! I’m Chengyao Yu. I am fortunate to have received guidance from Professor Ruixing Ming and Zhanfeng Wang during my undergraduate studies. Recently, I join the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech) as a master's student in Fall 2025, where I will be mentored by Professor Bingyi Jing. I’m excited to work on both theoretical and applied statistical problems, and I hope to engage actively with the broader research community.
+Hi! I’m Chengyao Yu. Recently, I join the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech) as a master's student in Fall 2025, where I will be mentored by Professor Bingyi Jing. I’m excited to work on both theoretical and applied statistical problems, and I hope to engage actively with the broader research community.
 
 ---
 
@@ -38,15 +38,19 @@ Recently, I focus on leveraging conformal inference to assist in reliable deploy
 
 ## Publications
 
-1. **Flexible Automatic Identification and Removal (FAIR)-Pruner: An Efficient Neural Network Pruning Method**  
-   *Chenqing Lin, Mostafa Hussien, **Chengyao Yu**, Mohamed Cheriet, Osama Abdelrahman, Ruixing Ming*
-   *(2025, Submitted to AAAI 2026, under review)*
+1. **End-to-End Generative Multimodal Recommendation with Low-Rank Information Compression**  
+   *Lifan Sun, Hongwei Jiang, Xinyuan Song, Jiapeng Zhao, **Chengyao Yu**, Tianxiang Xu, Yangfan He, Zichen Yuan*
+   *(2025, Submitted to ACL ARR Oct 2025)*
 
-2. **Random weighting approximation of M-estimators with increasing dimensions of parameter**  
+2. **Flexible Automatic Identification and Removal (FAIR)-Pruner: An Efficient Neural Network Pruning Method**  
+   *Chenqing Lin, Mostafa Hussien, **Chengyao Yu**, Mohamed Cheriet, Osama Abdelrahman, Ruixing Ming*
+   *(2025, Prepared to submitted to CVPR 2025)*
+
+3. **Random weighting approximation of M-estimators with increasing dimensions of parameter**  
    *Ruixing Ming, **Chengyao Yu (Co-first author)**, Min Xiao, Zhanfeng Wang*
    *(2025, Submitted to Statistica Sinica, in revision)*
 
-3. **A generalized e-value feature detection method with FDR control at multiple resolutions**  
+4. **A generalized e-value feature detection method with FDR control at multiple resolutions**  
    ***Chengyao Yu**, Ruixing Ming, Min Xiao, Zhanfeng Wang, Bingyi Jing*
    *(2024, Submitted to the Annals of Statistics, under review)*
 
