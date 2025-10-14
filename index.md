@@ -38,19 +38,19 @@ Recently, I focus on leveraging conformal inference to assist in reliable deploy
 
 ## Publications
 
-1. **End-to-End Generative Multimodal Recommendation with Low-Rank Information Compression**  
+4. **End-to-End Generative Multimodal Recommendation with Low-Rank Information Compression**  
    *Lifan Sun, Hongwei Jiang, Xinyuan Song, Jiapeng Zhao, **Chengyao Yu**, Tianxiang Xu, Yangfan He, Zichen Yuan*
    *(2025, Submitted to ACL ARR Oct 2025)*
 
-2. **Flexible Automatic Identification and Removal (FAIR)-Pruner: An Efficient Neural Network Pruning Method**  
+3. **Flexible Automatic Identification and Removal (FAIR)-Pruner: An Efficient Neural Network Pruning Method**  
    *Chenqing Lin, Mostafa Hussien, **Chengyao Yu**, Mohamed Cheriet, Osama Abdelrahman, Ruixing Ming*
    *(2025, Prepared to submitted to CVPR 2025)*
 
-3. **Random weighting approximation of M-estimators with increasing dimensions of parameter**  
+2. **Random weighting approximation of M-estimators with increasing dimensions of parameter**  
    *Ruixing Ming, **Chengyao Yu (Co-first author)**, Min Xiao, Zhanfeng Wang*
    *(2025, Statistica Sinica, accepted)*
 
-4. **A generalized e-value feature detection method with FDR control at multiple resolutions**  
+1. **A generalized e-value feature detection method with FDR control at multiple resolutions**  
    ***Chengyao Yu**, Ruixing Ming, Min Xiao, Zhanfeng Wang, Bingyi Jing*
    *(2024, Submitted to the Annals of Statistics, under review)*
 
