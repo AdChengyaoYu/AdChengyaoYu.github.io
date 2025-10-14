@@ -48,7 +48,7 @@ Recently, I focus on leveraging conformal inference to assist in reliable deploy
 
 3. **Random weighting approximation of M-estimators with increasing dimensions of parameter**  
    *Ruixing Ming, **Chengyao Yu (Co-first author)**, Min Xiao, Zhanfeng Wang*
-   *(2025, Submitted to Statistica Sinica, in revision)*
+   *(2025, Statistica Sinica, accepted)*
 
 4. **A generalized e-value feature detection method with FDR control at multiple resolutions**  
    ***Chengyao Yu**, Ruixing Ming, Min Xiao, Zhanfeng Wang, Bingyi Jing*
