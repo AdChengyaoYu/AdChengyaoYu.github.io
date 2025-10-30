@@ -43,7 +43,7 @@ Recently, I focus on leveraging conformal inference to assist in reliable deploy
    *(2025, Submitted to ACL ARR Oct 2025)*
 
 2. **FAIR-Pruner: Leveraging Tolerance of Difference for Flexible Automatic Layer-Wise Neural Network Pruning**  
-   *Chenqing Lin, Mostafa Hussien, **Chengyao Yu**, Mohamed Cheriet, Osama Abdelrahman, Ruixing Ming*
+   *Chenqing Lin, Mostafa Hussien, **Chengyao Yu**, Bingyi Jing, Osama Abdelrahman, Ruixing Ming*
    *(2025, Prepared to submitted to CVPR 2026)*
 
 3. **Random weighting approximation of M-estimators with increasing dimensions of parameter**  
