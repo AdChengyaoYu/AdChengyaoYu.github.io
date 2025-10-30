@@ -12,7 +12,6 @@ title: Chengyao Yu
     Southern University of Science and Technology (Fall 2025)</p>
     <p>
       📧 <a href="mailto:ycy87686@163.com">12532239@mail.sustech.edu.cn</a><br/>
-      🔗 <a href="https://github.com/AdChengyaoYu" target="_blank">GitHub: AdChengyaoYu</a>
     </p>
   </div>
 </div>
@@ -21,7 +20,7 @@ title: Chengyao Yu
 
 ## About Me
 
-Hi! I’m Chengyao Yu. Recently, I join the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech) as a master's student in Fall 2025, where I will be mentored by Professor Bingyi Jing. I’m excited to work on both theoretical and applied statistical problems, and I hope to engage actively with the broader research community.
+Hi, I’m Chengyao Yu. Recently, I join the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech) as a master's student in Fall 2025, where I will be mentored by Professor Bingyi Jing. I’m excited to work on both theoretical and applied statistical problems. I hope to engage actively with the broader research community.
 
 ---
 
@@ -44,15 +43,15 @@ Recently, I focus on leveraging conformal inference to assist in reliable deploy
 
 2. **FAIR-Pruner: Leveraging Tolerance of Difference for Flexible Automatic Layer-Wise Neural Network Pruning**  
    *Chenqing Lin, Mostafa Hussien, **Chengyao Yu**, Bingyi Jing, Osama Abdelrahman, Ruixing Ming*
-   *(2025, Prepared to submitted to CVPR 2026)*
+   *(2025, Submitted to CVPR 2026)*
 
 3. **Random weighting approximation of M-estimators with increasing dimensions of parameter**  
    *Ruixing Ming, **Chengyao Yu (Co-first author)**, Min Xiao, Zhanfeng Wang*
    *(2025, Statistica Sinica)*
 
-5. **A generalized e-value feature detection method with FDR control at multiple resolutions**  
+4. **A generalized e-value feature detection method with FDR control at multiple resolutions**  
    ***Chengyao Yu**, Ruixing Ming, Min Xiao, Zhanfeng Wang, Bingyi Jing*
-   *(2024, Submitted to the Annals of Statistics, under review)*
+   *(2024, Submitted to the Annals of Statistics, in revision)*
 
 ---
 
@@ -78,5 +77,4 @@ Recently, I focus on leveraging conformal inference to assist in reliable deploy
 
 ## Contact
 
-I am open to collaboration and discussion in fields involving multiple hypotheses testing, large language models, and uncertainty quantification (conformal inference).  
-Feel free to contact me if you are enthusiastic about these topics as well!
+I am open to collaboration and discussion in fields involving multiple hypotheses testing, large language models, and uncertainty quantification (conformal inference). Feel free to contact me if you are enthusiastic about these topics as well.
